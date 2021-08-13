@@ -1,0 +1,14 @@
+{
+  "name": "@ljz112/svs_streamgraph",
+  "main": "a8237e0d2327f29e@509.js",
+  "version": "509.0.0",
+  "homepage": "https://observablehq.com/@ljz112/svs_streamgraph",
+  "author": {
+    "name": "Lucas Zurbuchen",
+    "url": "https://observablehq.com/@ljz112"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

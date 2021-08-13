@@ -1,0 +1,14 @@
+{
+  "name": "@ljz112/svs_barchart",
+  "main": "77a6626cb643fd9c@3794.js",
+  "version": "3794.0.0",
+  "homepage": "https://observablehq.com/@ljz112/svs_barchart",
+  "author": {
+    "name": "Lucas Zurbuchen",
+    "url": "https://observablehq.com/@ljz112"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

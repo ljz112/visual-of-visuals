@@ -1,0 +1,14 @@
+{
+  "name": "@ljz112/svs_word_cloud",
+  "main": "c210cbaac5b4b458@839.js",
+  "version": "839.0.0",
+  "homepage": "https://observablehq.com/@ljz112/svs_word_cloud",
+  "author": {
+    "name": "Lucas Zurbuchen",
+    "url": "https://observablehq.com/@ljz112"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

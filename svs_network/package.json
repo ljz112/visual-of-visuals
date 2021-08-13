@@ -1,0 +1,14 @@
+{
+  "name": "@ljz112/svs_network",
+  "main": "e514334a3e388d3d@1306.js",
+  "version": "1306.0.0",
+  "homepage": "https://observablehq.com/@ljz112/svs_network",
+  "author": {
+    "name": "Lucas Zurbuchen",
+    "url": "https://observablehq.com/@ljz112"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

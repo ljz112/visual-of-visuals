@@ -1,0 +1,14 @@
+{
+  "name": "@ljz112/svs_visuals",
+  "main": "18ddeff0a2c3da72@913.js",
+  "version": "913.0.0",
+  "homepage": "https://observablehq.com/@ljz112/svs_visuals",
+  "author": {
+    "name": "Lucas Zurbuchen",
+    "url": "https://observablehq.com/@ljz112"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

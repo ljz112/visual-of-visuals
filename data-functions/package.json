@@ -1,0 +1,14 @@
+{
+  "name": "@ljz112/data-functions",
+  "main": "2622cb8a5f7e3697@1115.js",
+  "version": "1115.0.0",
+  "homepage": "https://observablehq.com/@ljz112/data-functions",
+  "author": {
+    "name": "Lucas Zurbuchen",
+    "url": "https://observablehq.com/@ljz112"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

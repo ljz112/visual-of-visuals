@@ -1,0 +1,14 @@
+{
+  "name": "@ljz112/svs_sunburst",
+  "main": "0933887c3f0313c9@1520.js",
+  "version": "1520.0.0",
+  "homepage": "https://observablehq.com/@ljz112/svs_sunburst",
+  "author": {
+    "name": "Lucas Zurbuchen",
+    "url": "https://observablehq.com/@ljz112"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
